@@ -25,6 +25,8 @@ Reference : https://developer.salesforce.com/docs/atlas.en-us.api_streaming.meta
 2. Run LoginExample.java with parameters ( Have kafka running)
 jatin@Infoworks.io IN11**rkD0nAzNh32noa6Emjn6vcq2jP /topic/AccountInserts
 
-only topicname will change according to entity
+only topicname will change according to entity.
+
+
 3. Create or update an Account in salesforce site to see the changes
 https://na50.lightning.force.com/one/one.app#/sObject/Account/list?filterName=Recent
